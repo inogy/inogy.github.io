@@ -4,7 +4,7 @@ From IMDB  https://imsdb.com/
 
 ### 12 Years a Slave (Undated Draft)
 | Written by John Ridley
-| 
+| https://imsdb.com/scripts/12-Years-a-Slave.html
 
 # A
 
@@ -20,6 +20,10 @@ From IMDB  https://imsdb.com/
 | Written by Jonathan Hensleigh,J.J. Abrams
 | https://imsdb.com/scripts/Armageddon.html
 
+### Antz (Undated Draft)
+| Written by Todd Alcott,Chris Weitz,Paul Weitz
+| https://imsdb.com/scripts/Antz.html
+
 ### As Good As It Gets (Undated Draft)
 | Written by Mark Andrus,James L. Brooks
 | https://imsdb.com/scripts/As-Good-As-It-Gets.html
@@ -28,15 +32,12 @@ From IMDB  https://imsdb.com/
 | Written by James Cameron
 | https://imsdb.com/scripts/Avatar.html
 
-
 ### Avatar2 (Simply Script)
    https://www.simplyscripts.com/scripts/Avatar2.pdf
    
    └ ‘Avatar: The Way of Water’ Sails to $950 Million Worldwide
     https://variety.com/2022/film/news/avatar-the-way-of-water-900-million-worldwide-1235472877/
     https://james-camerons-avatar.fandom.com/wiki/Tulkun
-
-
 
 ### Avengers, The (1995-06 Draft)
 | Written by Don Macpherson
