@@ -2,8 +2,9 @@ From IMDB  https://imsdb.com/
 
 # '#'
 
-
-
+### 12 Years a Slave (Undated Draft)
+| Written by John Ridley
+| 
 
 # A
 
@@ -27,11 +28,15 @@ From IMDB  https://imsdb.com/
 | Written by James Cameron
 | https://imsdb.com/scripts/Avatar.html
 
-└ ‘Avatar: The Way of Water’ Sails to $950 Million Worldwide
-  https://variety.com/2022/film/news/avatar-the-way-of-water-900-million-worldwide-1235472877/
 
 ### Avatar2 (Simply Script)
    https://www.simplyscripts.com/scripts/Avatar2.pdf
+   
+   └ ‘Avatar: The Way of Water’ Sails to $950 Million Worldwide
+    https://variety.com/2022/film/news/avatar-the-way-of-water-900-million-worldwide-1235472877/
+    https://james-camerons-avatar.fandom.com/wiki/Tulkun
+
+
 
 ### Avengers, The (1995-06 Draft)
 | Written by Don Macpherson
