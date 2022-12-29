@@ -55,9 +55,18 @@ From IMDB  https://imsdb.com/
 | Written by Joe Eszterhas
 | https://imsdb.com/scripts/Basic-Instinct.html
 
+### Beauty and the Beast (2016-08 Draft)
+| Written by Stephen Chbosky,Evan Spiliotopoulos
+| https://imsdb.com/scripts/Beauty-and-the-Beast.html
+
+### Big (1988 Transcript)
+| Written by Gary Ross,Anne Spielberg
+| https://imsdb.com/scripts/Big.html
+
 ### Bodyguard (1992-02 Draft)
 | Written by Lawrence Kasdan
 | https://imsdb.com/scripts/Bodyguard.html
+
 
 
 # C
