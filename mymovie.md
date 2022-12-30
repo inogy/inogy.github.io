@@ -451,94 +451,140 @@ Guardians of the Galaxy Vol 2 (Undated Draft)
 
 # S
 
-Schindler's List (Undated Draft)
-Written by Steven Zaillian
-https://imsdb.com/scripts/Schindler's-List.html
+### Schindler's List (Undated Draft)
+| Written by Steven Zaillian
+| https://imsdb.com/scripts/Schindler's-List.html
 
-Se7en (Undated Draft)
-Written by Andrew Kevin Walker
-https://imsdb.com/scripts/Se7en.html
+### Se7en (Undated Draft)
+| Written by Andrew Kevin Walker
+| https://imsdb.com/scripts/Se7en.html
 
-Sense and Sensibility (1995 Draft)
-Written by Jane Austen,Emma Thompson
-https://imsdb.com/scripts/Sense-and-Sensibility.html
+### Sense and Sensibility (1995 Draft)
+| Written by Jane Austen,Emma Thompson
+| https://imsdb.com/scripts/Sense-and-Sensibility.html
 
-Sex and the City (Undated Draft)
-Written by Michael Patrick King
-https://imsdb.com/scripts/Sex-and-the-City.html
+### Sex and the City (Undated Draft)
+| Written by Michael Patrick King
+| https://imsdb.com/scripts/Sex-and-the-City.html
 
-Shawshank Redemption, The (Undated Draft)
-Written by Frank Darabont
-https://imsdb.com/scripts/Shawshank-Redemption,-The.html
+### Shawshank Redemption, The (Undated Draft)
+| Written by Frank Darabont
+| https://imsdb.com/scripts/Shawshank-Redemption,-The.html
 
-Shrek (Undated Transcript)
-Written by William Steig,Ted Elliott
-https://imsdb.com/scripts/Shrek.html
+### Shrek (Undated Transcript)
+| Written by William Steig,Ted Elliott
+| https://imsdb.com/scripts/Shrek.html
 
-Shrek the Third (Undated Final screening script)
-Written by Peter Seaman,Jeffrey Price,Chris Miller,Aron Warner
-https://imsdb.com/scripts/Shrek-the-Third.html
+### Shrek the Third (Undated Final screening script)
+| Written by Peter Seaman,Jeffrey Price,Chris Miller,Aron Warner
+| https://imsdb.com/scripts/Shrek-the-Third.html
 
-Silence of the Lambs (Undated Draft)
-Written by Thomas Harris,Ted Tally
-https://imsdb.com/scripts/Silence-of-the-Lambs.html
+### Silence of the Lambs (Undated Draft)
+| Written by Thomas Harris,Ted Tally
+| https://imsdb.com/scripts/Silence-of-the-Lambs.html
 
-Sister Act (1991-07 Draft)
-Written by Paul Rudnick
-https://imsdb.com/scripts/Sister-Act.html 
+### Sister Act (1991-07 Draft)
+| Written by Paul Rudnick
+| https://imsdb.com/scripts/Sister-Act.html 
 
-Sixth Sense, The (Undated Draft)
-Written by M. Night Shyamalan
-https://imsdb.com/scripts/Sixth-Sense,-The.html
+### Sixth Sense, The (Undated Draft)
+| Written by M. Night Shyamalan
+| https://imsdb.com/scripts/Sixth-Sense,-The.html
 
-Sleepless in Seattle (1992-05 Draft)
-Written by Jeff Arch,Nora Ephron,David S. Ward
-https://imsdb.com/scripts/Sleepless-in-Seattle.html
+### Sleepless in Seattle (1992-05 Draft)
+| Written by Jeff Arch,Nora Ephron,David S. Ward
+| https://imsdb.com/scripts/Sleepless-in-Seattle.html
 
-Social Network, The (2009-05 Draft)
-Written by Aaron Sorkin
-https://imsdb.com/scripts/Social-Network,-The.html
+### Social Network, The (2009-05 Draft)
+| Written by Aaron Sorkin
+| https://imsdb.com/scripts/Social-Network,-The.html
 
-Source Code (2007-01 Draft)
-Written by Ben Ripley
-https://imsdb.com/scripts/Source-Code.html
+### Source Code (2007-01 Draft)
+| Written by Ben Ripley
+| https://imsdb.com/scripts/Source-Code.html
 
-Speed (Undated Draft)
-Written by Graham Yost
-https://imsdb.com/scripts/Speed.pdf
+### Speed (Undated Draft)
+| Written by Graham Yost
+| https://imsdb.com/scripts/Speed.pdf
 
-Star Wars: A New Hope (1976-01 Fourth Draft)
-Written by George Lucas
+### Star Wars: A New Hope (1976-01 Fourth Draft)
+| Written by George Lucas
 
-Star Wars: Attack of the Clones (2002 Draft)
-Written by George Lucas
+### Star Wars: Attack of the Clones (2002 Draft)
+| Written by George Lucas
 
-Star Wars: Return of the Jedi (1981-12 Draft)
-Written by George Lucas,Lawrence Kasdan
+### Star Wars: Return of the Jedi (1981-12 Draft)
+| Written by George Lucas,Lawrence Kasdan
 
-Star Wars: Revenge of the Sith (Undated Draft)
-Written by George Lucas
+### Star Wars: Revenge of the Sith (Undated Draft)
+| Written by George Lucas
 
-Star Wars: The Empire Strikes Back (Undated Draft)
-Written by George Lucas,Lawrence Kasdan,Leigh Brackett
+### Star Wars: The Empire Strikes Back (Undated Draft)
+| Written by George Lucas,Lawrence Kasdan,Leigh Brackett
 
-Star Wars: The Force Awakens (Undated Draft)
-Written by Lawrence Kasdan,J.J. Abrams,Michael Arndt
+### Star Wars: The Force Awakens (Undated Draft)
+| Written by Lawrence Kasdan,J.J. Abrams,Michael Arndt
 
 
-Star Wars: The Phantom Menace (1999 Draft)
-Written by George Lucas
-https://imsdb.com/scripts/Star-Wars-The-Phantom-Menace.html
+### Star Wars: The Phantom Menace (1999 Draft)
+| Written by George Lucas
+| https://imsdb.com/scripts/Star-Wars-The-Phantom-Menace.html
 
-Sting, The (Undated Draft)
-Written by David Ward
-https://imsdb.com/scripts/Sting,-The.html
+### Sting, The (Undated Draft)
+| Written by David Ward
+| https://imsdb.com/scripts/Sting,-The.html
 
 
 # T
 
+### Terminator (1983-04 Draft)
+| Written by Harlan Ellison,James Cameron,Gale Anne Hurd,William Wisher Jr.
+
+### Terminator 2: Judgement Day (1991 Draft)
+| Written by James Cameron,William Wisher
+
+### Three Men and a Baby (1986-11 Draft)
+| Written by Jim Cruickshank,James Orr,Colline Serreau
+| https://imsdb.com/scripts/Three-Men-and-a-Baby.html
+
+### Titanic (1997 Draft)
+| Written by James Cameron
+| https://imsdb.com/scripts/Titanic.html
+
+### Top Gun (1985-04 Draft)
+| Written by Chip Proser
+| https://imsdb.com/scripts/Top-Gun.html
+
+### Total Recall (1990 Draft)
+| Written by Ronald Shusett,Dan O'Bannon,Steven Pressfield
+| https://imsdb.com/scripts/Total-Recall.html
+
+### Toy Story (1995-11 Draft)
+| Written by Joss Whedon,Andrew Stanton,Joel Cohen,Alec Sokolow
+| https://imsdb.com/scripts/Toy-Story.html
+
+### True Lies (1994 Draft)
+| Written by Claude Zidi,Simon Micha�l,Didier Kaminka,James Cameron
+| https://imsdb.com/scripts/True-Lies.html
+
+### Truman Show, The (1998-00 Draft)
+| Written by Andrew Niccol
+| https://imsdb.com/scripts/Truman-Show,-The.html
+
 
 # U
+
+### Unbreakable (1999-10 Draft)
+| Written by M. Night Shyamalan
+| https://imsdb.com/scripts/Unbreakable.html
+
+### Unknown (2009-10 Draft)
+| Written by Oliver Butcher,Stephen Cornwell
+| https://imsdb.com/scripts/Unknown.html
+
+### Up (Undated Draft)
+| Written by Pete Docter,Bob Peterson,Thomas McCarthy
+| https://imsdb.com/scripts/Up.html
 
 
 # V
