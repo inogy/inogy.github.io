@@ -6,6 +6,7 @@ From IMDB  https://imsdb.com/
 | Written by John Ridley
 | https://imsdb.com/scripts/12-Years-a-Slave.html
 
+
 # A
 
 ### Aladdin (1992 Transcript)
@@ -101,8 +102,44 @@ From IMDB  https://imsdb.com/
 
 
 
+
 # D
 
+### Dances with Wolves (1989-05 Final draft)
+| Written by Michael Blake
+| https://imsdb.com/scripts/Dances-with-Wolves.html
+
+### Dark Knight, The (Undated Draft)
+| Written by Jonathan Nolan,Christopher Nolan
+| No Script
+
+### Dead Poets Society (Undated Draft)
+| Written by Tom Schulman
+| https://imsdb.com/scripts/Dead-Poets-Society.html
+
+### Deadpool (2015-11 Shooting script)
+| Written by Rhett Reese,Paul Wernick
+| https://imsdb.com/scripts/Deadpool.html
+
+### Devil Wears Prada, The (2005-09 Draft)
+| Written by Aline Brosh McKenna,Lauren Weisberger
+| https://imsdb.com/scripts/Devil-Wears-Prada,-The.html
+
+### Devil's Advocate (1997-01 Draft)
+| Written by Andrew Neiderman,Jonathan Lemkin
+| https://imsdb.com/scripts/Devil's-Advocate.html
+
+### Die Hard (Undated Draft)
+| Written by Jeb Stuart,Steven E. De Souza
+| https://imsdb.com/scripts/Die-Hard.html
+
+### Die Hard 2 (1989-11 Shooting script)
+| Written by Doug Richardson,Steven E. de Souza
+| https://imsdb.com/scripts/Die-Hard-2.html
+
+### Dune (1983-12 Draft)
+| Written by David Lynch,Frank Herbert
+| https://imsdb.com/scripts/Dune.html
 
 
 # E
