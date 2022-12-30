@@ -143,54 +143,396 @@ From IMDB  https://imsdb.com/
 
 
 # E
+### E.T. (1982 Transcript)
+| Written by Melissa Mathison
+| https://imsdb.com/scripts/E.T..html
+
+### Eyes Wide Shut (Undated Draft)
+| Written by Stanley Kubrick,Frederic Raphael
+| No Script
 
 
 
 # F
 
+### Forrest Gump (Undated Draft)
+| Written by Eric Roth,Winston Groom
+| https://imsdb.com/scripts/Forrest-Gump.html
+
+### Frozen (Disney) (2013-09 Final shooting draft)
+| Written by Jennifer Lee
+| https://imsdb.com/scripts/Frozen-(Disney).html
+
 
 
 # G
 
+### G.I. Jane (1995-08 Draft)
+| Written by David Twohy
+| https://imsdb.com/scripts/G.I.-Jane.html
+
+### Gattaca (Undated Draft)
+| Written by Andrew Niccol
+| https://imsdb.com/scripts/Gattaca.html
+
+### Ghost (1990 Draft)
+| Written by Bruce Joel Rubin
+| https://imsdb.com/scripts/Ghost.html
+
+### Gladiator (1998-10 Draft)
+| Written by David Franzoni,John Logan
+| https://imsdb.com/Movie%20Scripts/Gladiator%20Script.html
+
+### Godfather (1971-03 Draft)
+| Written by Mario Puzo,Francis Ford Coppola
+| https://imsdb.com/scripts/Godfather.html
+
+### Godfather Part II (1973-09 Draft)
+| Written by Mario Puzo,Francis Ford Coppola
+| https://imsdb.com/scripts/Godfather-Part-II.html
+
+### Godfather Part III, The (1979-03 First draft)
+| Written by Mario Puzo,Francis Ford Coppola
+| https://imsdb.com/scripts/Godfather-Part-III,-The.html
+
+### Good Will Hunting (Undated Draft)
+| Written by Matt Damon,Ben Affleck
+| https://imsdb.com/scripts/Good-Will-Hunting.html
+
+### Great Gatsby, The (Undated Draft)
+| Written by Baz Luhrmann,Craig Pearce
+| https://imsdb.com/scripts/Great-Gatsby,-The.html
+
+Guardians of the Galaxy Vol 2 (Undated Draft)
+| Written by James Gunn
+| https://imsdb.com/scripts/Guardians-of-the-Galaxy-Vol-2.html
+
 
 # H
+
+### Harry Potter and the Chamber of Secrets (Undated Draft)
+| Written by J.K. Rowling,Steven Kloves 
+| No Script
+
+### Harry Potter and the Deathly Hallows Part 1 (Undated Draft)
+| Written by Steve Kloves
+| No Script
+
+### Harry Potter and the Goblet of Fire (Undated Transcript)
+| Written by Steven Kloves,J.K. Rowling
+| No Script
+
+### Harry Potter and the Half-Blood Prince (2007-11 Draft)
+| Written by Steve Kloves,J.K. Rowling
+| No Script
+
+### Harry Potter and the Prisoner of Azkaban (2003-02 Full Tan Draft)
+| Written by J.K. Rowling,Steven Kloves
+| No Script
+
+### Harry Potter and the Sorcerer's Stone (Undated Transcript)
+| Written by J.K. Rowling,Steven Kloves
+| No Script
+
+### Hitchhiker's Guide to the Galaxy, The (2003-08 Draft)
+| Written by Douglas Adams
+| https://imsdb.com/scripts/Hitchhiker's-Guide-to-the-Galaxy,-The.html
 
 
 # I
 
+### I am Sam (Undated Shooting draft)
+| Written by Kristine Johnson,Jessie Nelson
+| https://imsdb.com/scripts/I-am-Sam.html
+
+### I Still Know What You Did Last Summer (Undated Draft)
+| Written by Trey Callaway
+| https://imsdb.com/scripts/I-Still-Know-What-You-Did-Last-Summer.html 
+
+
+### Independence Day (Undated Draft)
+| Written by Dean Devlin,Roland Emmerich
+| https://imsdb.com/scripts/Independence-Day.html
+
+
+### Inception (Undated Shooting script)
+| Written by Christopher Nolan
+| https://imsdb.com/scripts/Inception.html
+
+### Insomnia (2000-02 Draft)
+| Written by Hilary Seitz
+| https://imsdb.com/scripts/Insomnia.html
+
+### Interview with the Vampire (Undated Draft)
+| Written by Anne Rice,Neil Jordan
+| https://imsdb.com/scripts/Interview-with-the-Vampire.html
+
+
 
 # J
+### Jane Eyre (2008-03 Second draft)
+| Written by Moira Buffini
+| https://imsdb.com/scripts/Jane-Eyre.html
+
+### Jerry Maguire (Undated Draft)
+| Written by Cameron Crowe
+| https://imsdb.com/Movie%20Scripts/Jerry%20Maguire%20Script.html
+
+### John Wick (Undated Draft)
+| Written by Derek Kolstad
+| https://imsdb.com/scripts/John-Wick.html
+
+### Joker (2018-04 Early Draft)
+| Written by Todd Phillips,Scott Silver
+| https://imsdb.com/scripts/Joker.html
+
+### John Q (Undated Draft)
+| Written by James Kearns
+| https://imsdb.com/scripts/John-Q.html
+
+### Jurassic Park (1992-12 Draft)
+| Written by David Koepp
+| https://imsdb.com/scripts/Jurassic-Park.html
+
+### Jurassic Park III (Undated Draft)
+| Written by Peter Buchman,Alexander Payne,John August,Jim Taylor
+| https://imsdb.com/scripts/Jurassic-Park-III.html
+
+### Jurassic Park: The Lost World (Undated Draft)
+| Written by David Koepp
+| https://imsdb.com/scripts/Jurassic-Park-The-Lost-World.html
+
 
 
 # K
 
+### King's Speech, The (Undated Draft)
+| Written by David Seidler
+| https://imsdb.com/scripts/King's-Speech,-The.html
+
+### Kung Fu Panda (Undated Final draft)
+| Written by Jonathan Aibel,Glenn Berger
+| https://imsdb.com/scripts/Kung-Fu-Panda.html
+
+
 
 # L
+
+### La La Land (Undated Draft)
+| Written by Damien Chazelle
+| https://imsdb.com/scripts/La-La-Land.html
+
+### Legally Blonde (2000-07 Draft)
+| Written by Karen McCullah Lutz,Kirsten Smith
+| https://imsdb.com/scripts/Legally-Blonde.html
+
+### Les Miserables (2012-05 Draft)
+| Written by William Nicholson,Alain Boublil,Claude- Michel Schonberg,Herbert Kretzmer
+| https://imsdb.com/scripts/Les-Miserables.html
+
+### Lion King, The (1993-08 Draft)
+| Written by Irene Mecchi,Jonathan Roberts
+| https://imsdb.com/scripts/Lion-King,-The.pdf
+
+### Little Mermaid, The (1989 Transcript)
+| Written by Roger Allers,Hans Christian Andersen,Howard Ashman,Ron Clements,John Musker
+| https://imsdb.com/scripts/Little-Mermaid,-The.html
+
+### Lord of the Rings: Fellowship of the Ring, The (Undated Draft)
+| Written by Frances Walsh,Philippa Boyens,Peter Jackson
+| https://imsdb.com/scripts/Lord-of-the-Rings-Fellowship-of-the-Ring,-The.html
+
+### Lord of the Rings: Return of the King (2003-10 Draft)
+| Written by Peter Jackson,Fran Walsh,Philippa Boyens
+| https://imsdb.com/scripts/Lord-of-the-Rings-Return-of-the-King.html
+
+### Lord of the Rings: The Two Towers (Undated Transcript)
+| Written by Peter Jackson,Fran Walsh,Philippa Boyens
+| https://imsdb.com/scripts/Lord-of-the-Rings-The-Two-Towers.html
 
 
 
 # M
 
+### Man in the Iron Mask (1995-09 Draft)
+| Written by Randall Wallace
+| https://imsdb.com/scripts/Man-in-the-Iron-Mask.html
+
+### Matrix, The (1997-06 Draft)
+| Written by Larry Wachowski,Andy Wachowski
+| https://imsdb.com/scripts/Matrix,-The.html
+
+### Matrix Reloaded, The (1999-04 Draft)
+| Written by Andy Wachowski,Larry Wachowski
+| https://imsdb.com/scripts/Matrix-Reloaded,-The.html
+
+### Mechanic, The (2009-07 Draft)
+| Written by Karl Gajdusek,Lewis John Carlino
+| https://imsdb.com/scripts/Mechanic,-The.html
+
+### Meet Joe Black (1998 Draft)
+| Written by Bo Goldman,Ron Osborn,Jeff Reno,Kevin Wade
+| https://imsdb.com/scripts/Meet-Joe-Black.html
+
+### Memento (1999-10 Draft)
+| Written by Christopher Nolan,Jonathan Nolan
+| https://imsdb.com/scripts/Memento.html
+
+### Men in Black (1997 Draft)
+| Written by Lowell Cunningham,Ed Solomon
+| https://imsdb.com/scripts/Men-in-Black.html
+
+### Moneyball (Undated Draft)
+| Written by Steven Zaillian,Aaron Sorkin
+| https://imsdb.com/scripts/Moneyball.html
+
+### Mummy, The (1999 Draft)
+| Written by Nina Wilcox Putnam,Richard Schayer,John L. Balderston,Stephen Sommers,Lloyd Fonvielle,Kevin Jarre
+| https://imsdb.com/scripts/Mummy,-The.html
+
+
 
 
 # N
 
+### Notting Hill (1999 Draft)
+| Written by Richard Curtis
+| https://imsdb.com/scripts/Notting-Hill.html
 
 
 # O
+-
 
 
 #P
 
+### Piano, The (1991-00 Draft)
+| Written by Jane Campion
+| https://imsdb.com/scripts/Piano,-The.html
+
+### Platoon (Undated Draft)
+| Written by Oliver Stone
+| https://imsdb.com/scripts/Platoon.html
+
+### Pretty Woman (1990 Draft)
+| Written by J.F. Lawton
+| https://imsdb.com/scripts/Pretty-Woman.html
+
+### Pretty Woman (final script) (Undated Final script)
+| Written by Jonathan Frederick Lawton
+| https://imsdb.com/scripts/Pretty-Woman-(final-script).html
+
+### Pride and Prejudice (Undated Draft)
+| Written by Deborah Moggach
+| https://imsdb.com/scripts/Pride-and-Prejudice.html
+
+
+
 
 #Q
+-
 
 
 # R
 
+### Robocop (1986-06 Draft)
+| Written by Michael Miner,Edward Neumeier
+| https://imsdb.com/scripts/Robocop.pdf
+
+### Rock, The (1995-10 Draft)
+| Written by Jonathan Hensleigh
+| https://imsdb.com/scripts/Rock,-The.html
+
+### Romeo & Juliet (1995-10 Shooting script)
+| Written by William Shakespeare,Craig Pearce,Baz Luhrmann
+| https://imsdb.com/Movie%20Scripts/Romeo%20%2526%20Juliet%20Script.html
+
 
 
 # S
+
+Schindler's List (Undated Draft)
+Written by Steven Zaillian
+https://imsdb.com/scripts/Schindler's-List.html
+
+Se7en (Undated Draft)
+Written by Andrew Kevin Walker
+https://imsdb.com/scripts/Se7en.html
+
+Sense and Sensibility (1995 Draft)
+Written by Jane Austen,Emma Thompson
+https://imsdb.com/scripts/Sense-and-Sensibility.html
+
+Sex and the City (Undated Draft)
+Written by Michael Patrick King
+https://imsdb.com/scripts/Sex-and-the-City.html
+
+Shawshank Redemption, The (Undated Draft)
+Written by Frank Darabont
+https://imsdb.com/scripts/Shawshank-Redemption,-The.html
+
+Shrek (Undated Transcript)
+Written by William Steig,Ted Elliott
+https://imsdb.com/scripts/Shrek.html
+
+Shrek the Third (Undated Final screening script)
+Written by Peter Seaman,Jeffrey Price,Chris Miller,Aron Warner
+https://imsdb.com/scripts/Shrek-the-Third.html
+
+Silence of the Lambs (Undated Draft)
+Written by Thomas Harris,Ted Tally
+https://imsdb.com/scripts/Silence-of-the-Lambs.html
+
+Sister Act (1991-07 Draft)
+Written by Paul Rudnick
+https://imsdb.com/scripts/Sister-Act.html 
+
+Sixth Sense, The (Undated Draft)
+Written by M. Night Shyamalan
+https://imsdb.com/scripts/Sixth-Sense,-The.html
+
+Sleepless in Seattle (1992-05 Draft)
+Written by Jeff Arch,Nora Ephron,David S. Ward
+https://imsdb.com/scripts/Sleepless-in-Seattle.html
+
+Social Network, The (2009-05 Draft)
+Written by Aaron Sorkin
+https://imsdb.com/scripts/Social-Network,-The.html
+
+Source Code (2007-01 Draft)
+Written by Ben Ripley
+https://imsdb.com/scripts/Source-Code.html
+
+Speed (Undated Draft)
+Written by Graham Yost
+https://imsdb.com/scripts/Speed.pdf
+
+Star Wars: A New Hope (1976-01 Fourth Draft)
+Written by George Lucas
+
+Star Wars: Attack of the Clones (2002 Draft)
+Written by George Lucas
+
+Star Wars: Return of the Jedi (1981-12 Draft)
+Written by George Lucas,Lawrence Kasdan
+
+Star Wars: Revenge of the Sith (Undated Draft)
+Written by George Lucas
+
+Star Wars: The Empire Strikes Back (Undated Draft)
+Written by George Lucas,Lawrence Kasdan,Leigh Brackett
+
+Star Wars: The Force Awakens (Undated Draft)
+Written by Lawrence Kasdan,J.J. Abrams,Michael Arndt
+
+
+Star Wars: The Phantom Menace (1999 Draft)
+Written by George Lucas
+https://imsdb.com/scripts/Star-Wars-The-Phantom-Menace.html
+
+Sting, The (Undated Draft)
+Written by David Ward
+https://imsdb.com/scripts/Sting,-The.html
 
 
 # T
