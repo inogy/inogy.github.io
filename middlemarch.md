@@ -3,9 +3,8 @@
 
 English
 
-
-
-https://www.planetebook.com/free-ebooks/middlemarch.pdf
+https://www.planetebook.com/middlemarch/
+└ https://www.planetebook.com/free-ebooks/middlemarch.pdf
 
 
 ### 중고서적 검색 : 고고 : http://www.gogobook.net/?page=usedbook
