@@ -16,10 +16,11 @@ Github활용 클라우드 파일 접근 및 소스 수정, 배포
 Github Desktop = Fetch
 ..Comment or Memo 입력.. 
 Commit 
+Fetch origin Push
 
 
 Local Repository 연결의 경우
  - ..
  - Add Exist Repository 
- - 
+ - Local Path 지정
  
