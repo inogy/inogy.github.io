@@ -19,8 +19,17 @@ Commit
 Fetch origin Push
 
 
-Local Repository 연결의 경우
+Local Repository 연결의 경우 or git 하위에서 Change .. 폴더에서 
+우클릭하여 Visual Studio Code 수행
+
  - ..
  - Add Exist Repository 
  - Local Path 지정
+ - Visual studio에서 수정후
+ - Commit 
+ - Fetch origin 적용
+ - Push?
+
+ 순서는 뒤죽박죽 임..
+
  
